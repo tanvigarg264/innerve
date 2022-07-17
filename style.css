@@ -1,0 +1,80 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+#title{
+    background-color:#230444;
+
+}
+.nav-item{
+  color: #fff;
+}
+.top_container{
+  height: 600px;
+  background-color:#230444;
+    padding: 3% 15% 7%;
+    background-image: url(tech.5789880915126183706392.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.event_name{
+  text-align:center;
+  color: #66BFBF;
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 200px;
+  margin: 0;
+}
+.event_sub{
+  text-align:center;
+  padding: 2%;
+  color: #C6D57E;
+  font-family: 'Rubik Moonrocks', cursive;
+  font-size: 50px;
+  font-weight: bold;
+
+}
+.about{
+  background-color: #3D087B;
+  color: #C6D57E;
+  padding: 1%;
+  font-size: 18px;
+  text-align: left;
+  font-weight: bold;
+  font-family: cursive;
+
+}
+.about_us{
+  background-image: url(tech.5789880915126183706392.png);
+  background-position: bottom;
+  height: 600px;
+  padding-left: 5%;
+  padding-right: 5%;
+
+  background-color: #66BFBF;}
+  .content{
+    font-size: 100px;
+  font-family: 'Rubik Moonrocks', cursive;
+  text-align: center;
+  color: #230444;
+}
+.image{
+  padding: 3%;
+
+}
+.image4{
+  border-style: solid;
+
+}
+.image5{
+  height: 450px;
+  border-style: solid;
+}
+.footer{
+  background-image: url(tech.5789880915126183706392.png);
+  background-color: #232931;
+  color: #fff;
+  font-family: cursive;
+}
+.contact{
+  color: #ED8240;
+}
